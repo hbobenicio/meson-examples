@@ -1,0 +1,6 @@
+[requires]
+fmt/7.0.3
+
+[generators]
+#cmake
+cmake_find_package
